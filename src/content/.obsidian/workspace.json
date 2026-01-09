@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/shorter-url.md",
+                "file": "posts/waf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shorter-url"
+              "title": "waf"
             }
           }
         ]
@@ -171,19 +171,21 @@
   },
   "active": "96b79d1156396696",
   "lastOpenFiles": [
+    "assets/images/waf-8.png",
+    "assets/images/waf-7.png",
+    "assets/images/waf-6.png",
+    "assets/images/waf-5.png",
+    "assets/images/waf-4.png",
+    "assets/images/waf-3.png",
+    "assets/images/waf-2.png",
+    "assets/images/waf-1.png",
+    "assets/images/waf.png",
+    "posts/shorter-url.md",
+    "posts/waf.md",
     "posts/double-monitior.md",
     "assets/images/double-monitior.png",
-    "posts/shorter-url.md",
     "assets/images/Mermaid Chart - Create complex, visual diagrams with text.-2026-01-09-031619.png",
-    "assets/images/Mermaid Chart - Create complex, visual diagrams with text.-2026-01-09-031603.png",
-    "assets/images/aa271a4c049736bf0143dc0ed88e7094.png",
-    "assets/images/shorter-url.png",
     "posts/uptimeflare.md",
-    "assets/images/uptimeflare-16.png",
-    "assets/images/uptimeflare-15.png",
-    "assets/images/msedge_HwStEUKYVx 1.gif",
-    "assets/images/msedge_HwStEUKYVx.gif",
-    "assets/images/uptimeflare-14.png",
     "posts/netlify-vercel-proxy.md",
     "posts/random-url-gen.md",
     "posts/eo-umami.md",
@@ -204,7 +206,6 @@
     "posts/why-not-icp.md",
     "posts/ipfs.md",
     "posts/swup-js.md",
-    "posts/static-view.md",
-    "posts/oci.md"
+    "posts/static-view.md"
   ]
 }
